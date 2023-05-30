@@ -4,4 +4,4 @@ added some icons. Also, it shows way less information so its cleaner.
 
 ## Screenshots
 ![Neofetch](https://i.imgur.com/ihiblGP.png)
-![Desktop](https://imgur.com/P9Kchip)
+![Desktop](https://imgur.com/P9Kchip.png)
